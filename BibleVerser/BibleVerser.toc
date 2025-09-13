@@ -1,0 +1,9 @@
+## Interface: 110000
+## Title: BibleVerser
+## Notes: Shows Bible verses with animations (ASV + KJV).
+## Author: Fathertren
+## Version: 1.0
+## SavedVariables: BibleVerserDB
+BibleVerser.lua
+VersePack.lua
+Options.lua
